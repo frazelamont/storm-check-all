@@ -17,8 +17,7 @@ HTML
 <label>
     <input data-group-name="group-1" name="..." id="..." value="2">
 </label>
-...
-...
+```
 
 JS
 either using es6 import
